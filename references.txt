@@ -1,0 +1,5 @@
+references used: 
+1. https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+2. https://registry.terraform.io/providers/hashicorp/tls/latest/docs/resources/private_key
+3. https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/key_pair
+4. https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
